@@ -19,3 +19,9 @@ Quicktime offers a quick and easy way to capture the screen.
 ## Visual Studio Code
 * Datestamp - SHIFT CMD i
 
+
+## Linux Commands
+* pwd Print Working Directory (Tells you where you are)
+* ls List (Prints a list of the files in the current directory
+* cd Change Directory (changes directory to the one you specify
+
