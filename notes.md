@@ -28,7 +28,7 @@ Quicktime offers a quick and easy way to capture the screen.
 ## Mac Stuff
 * Hashtag - Alt 3
 
-## Genesis Fonts
+## Genesis Fonts Example
 //* Enqueue Lato Google font
 add_action( 'wp_enqueue_scripts', 'sp_load_google_fonts' );
 function sp_load_google_fonts() {
