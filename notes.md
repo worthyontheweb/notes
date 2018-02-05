@@ -25,3 +25,5 @@ Quicktime offers a quick and easy way to capture the screen.
 * **ls** List (Prints a list of the files in the current directory)
 * **cd** Change Directory (changes directory to the one you specify)
 
+## Mac Stuff
+* Hashtag alt 3
