@@ -26,4 +26,4 @@ Quicktime offers a quick and easy way to capture the screen.
 * **cd** Change Directory (changes directory to the one you specify)
 
 ## Mac Stuff
-* # alt 3
+* Hashtag - Alt 3
