@@ -28,5 +28,7 @@ Quicktime offers a quick and easy way to capture the screen.
 ## Mac Stuff
 * Hashtag - Alt 3
 
-
+## WordPress - Genesis
+### Google Fonts
+functions.php edit *(or duplicate and edit)* the wp_enqueue_style relating to fonts. Genesis themes usually already include at least one Google Font. 
 
