@@ -33,6 +33,11 @@ Quicktime offers a quick and easy way to capture the screen.
 ### Google Fonts
 functions.php edit *(or duplicate and edit)* the wp_enqueue_style relating to fonts. Genesis themes usually already include at least one Google Font. 
 
+### Team Plugin *name tbc*
+Shortcode used for TBC plugin to display specific posts from only a certain team on a website which has several contributors. 
+
+[display-posts category="team-2" order="DESC" include_content="true"]
+
 ## Linking Source Tree to a GitHub Repo
 1. Open GitHub and login
 2. Open the repo you wish to clone
