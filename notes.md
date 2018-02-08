@@ -15,10 +15,8 @@ Quicktime offers a quick and easy way to capture the screen.
 **PULL** down from GitHub
 **PUSH** up to GitHub
 
-
 ## Visual Studio Code
 * Datestamp - SHIFT CMD i
-
 
 ## Linux Commands
 * **pwd** Print Working Directory (Tells you where you are)
