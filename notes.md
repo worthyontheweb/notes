@@ -27,6 +27,7 @@ Quicktime offers a quick and easy way to capture the screen.
 
 ## Mac Stuff
 * Hashtag - Alt 3
+* Screenshot - shift cmd 4 then select the area you wish to capture by clicking and dragging. An image of the screen will appear on your Desktop.
 
 ## WordPress - Genesis
 ### Google Fonts
