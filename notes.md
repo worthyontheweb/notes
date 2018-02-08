@@ -1,5 +1,7 @@
 # Personal Training Notes
 
+A random collection of notes for things that I may not remember how to do if I don't attempt them for a long time.
+
 ## Screen Casting
 Quicktime offers a quick and easy way to capture the screen. 
 * File
@@ -30,4 +32,15 @@ Quicktime offers a quick and easy way to capture the screen.
 ## WordPress - Genesis
 ### Google Fonts
 functions.php edit *(or duplicate and edit)* the wp_enqueue_style relating to fonts. Genesis themes usually already include at least one Google Font. 
+
+## Linking Source Tree to a GitHub Repo
+1. Open GitHub and login
+2. Open the repo you wish to clone
+3. Select clone or download
+4. Copy the URL to the clipboard
+5. Open Sourcetree
+6. Select clone from URL
+7. Paste in the URL you copied from GitHub
+8. Select the location on your local machine that you would like the repo to appear in **must be an empty folder** 
+9. The repo from GitHub will now be cloned to your local machine and local commits can be made and pushed to GitHub using Sourcetree.
 
