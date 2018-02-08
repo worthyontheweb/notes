@@ -33,6 +33,17 @@ Quicktime offers a quick and easy way to capture the screen.
 ### Google Fonts
 functions.php edit *(or duplicate and edit)* the wp_enqueue_style relating to fonts. Genesis themes usually already include at least one Google Font. 
 
+### Genesis Featured Image
+/*claire featured image code*/
+add_action ('genesis_before_entry', 'fcd_add_featured');
+function fcd_add_featured() {
+if ( is_single() && has_post_thumbnail() ) {
+echo '<div class="home-thumbnail">' . '';
+genesis_image( array( 'size' => 'full' ) );
+echo '</div>';
+}
+}
+
 ### Team Plugin *name tbc*
 Shortcode used for TBC plugin to display specific posts from only a certain team on a website which has several contributors. 
 
