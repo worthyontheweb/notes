@@ -29,6 +29,10 @@ Quicktime offers a quick and easy way to capture the screen.
 * Hashtag - Alt 3
 * Screenshot - shift cmd 4 then select the area you wish to capture by clicking and dragging. An image of the screen will appear on your Desktop.
 
+##WordPress
+### Themes 
+
+
 ## WordPress - Genesis
 ### Google Fonts
 functions.php edit *(or duplicate and edit)* the wp_enqueue_style relating to fonts. Genesis themes usually already include at least one Google Font. 
@@ -44,7 +48,19 @@ echo '</div>';
 }
 }
 
-### Team Plugin *name tbc*
+### Genesis Child Themes - creation
+#### Theme Folder
+Theme folder **must** contain the following:
+functions.php
+style.css
+
+Ideally should also include an image 
+* Create an image called screenshot (or presumably whatever suits) and save it in the theme's root folder. 
+
+
+
+
+### Team Plugin *used with signol*
 Shortcode used for TBC plugin to display specific posts from only a certain team on a website which has several contributors. 
 
 [display-posts category="team-2" order="DESC" include_content="true"]
