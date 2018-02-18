@@ -57,7 +57,22 @@ style.css
 Ideally should also include an image 
 * Create an image called screenshot (or presumably whatever suits) and save it in the theme's root folder. 
 
-
+### Creating Colums in Genesis
+<div class="one-third">
+		<p>
+		column 1
+	</p>
+</div>
+<div class="one-third">
+	<p>
+		column 2
+	</p>	
+</div>
+<div class="one-third">
+	<p>
+		column 3
+	</p>
+</div>
 
 
 ### Team Plugin *used with signol*
