@@ -135,3 +135,4 @@ Shortcode used for TBC plugin to display specific posts from only a certain team
 8. Select the location on your local machine that you would like the repo to appear in **must be an empty folder** 
 9. The repo from GitHub will now be cloned to your local machine and local commits can be made and pushed to GitHub using Sourcetree.
 
+Learnt how to reset my changes so that they don't get sent to the repo. Find the file in the list of files in staging, right click and reset
