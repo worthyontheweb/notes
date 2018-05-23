@@ -136,3 +136,16 @@ Shortcode used for TBC plugin to display specific posts from only a certain team
 9. The repo from GitHub will now be cloned to your local machine and local commits can be made and pushed to GitHub using Sourcetree.
 
 Learnt how to reset my changes so that they don't get sent to the repo. Find the file in the list of files in staging, right click and reset
+
+## Ionic App Dev
+In terminal (on mac) create a directory and enter it
+
+ionic start --type=ionic1
+
+give it a name (no spaces etc)
+
+no cordova at this stage
+no SDK at this stage
+
+select app format
+
