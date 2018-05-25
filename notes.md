@@ -156,5 +156,5 @@ ctrl c stops things
 ctrl Z pauses things
 % restarts things you've paused
 
-
+open . Opens the folder for that project with the files in finder
 
