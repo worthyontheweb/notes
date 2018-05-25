@@ -149,3 +149,12 @@ no SDK at this stage
 
 select app format
 
+
+ionic serve - run an existing project (you have to be in the folder at the time)
+
+ctrl c stops things
+ctrl Z pauses things
+% restarts things you've paused
+
+
+
