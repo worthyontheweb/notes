@@ -158,3 +158,9 @@ ctrl Z pauses things
 
 open . Opens the folder for that project with the files in finder
 
+## Node Red
+Run Node Red from terminal by typing node-red
+
+Open the browser at htt://localhost:1880
+
+
