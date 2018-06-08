@@ -127,6 +127,7 @@ Shortcode used for TBC plugin to display specific posts from only a certain team
 ## Linking Source Tree to a GitHub Repo
 1. Open GitHub and login
 2. Open the repo you wish to clone
+3. 
 3. Select clone or download
 4. Copy the URL to the clipboard
 5. Open Sourcetree
