@@ -70,8 +70,8 @@ Export video
 * **cd** Change Directory (changes directory to the one you specify)
 
 ## Mac Stuff
-* Hashtag - Alt 3
-* Screenshot - shift cmd 4 then select the area you wish to capture by clicking and dragging. An image of the screen will appear on your Desktop.
+* **Hashtag** - Alt 3
+* **Screenshot** - shift cmd 4 then select the area you wish to capture by clicking and dragging. An image of the screen will appear on your Desktop.
 
 ##WordPress
 ### Themes 
@@ -159,9 +159,62 @@ ctrl Z pauses things
 
 open . Opens the folder for that project with the files in finder
 
-## Node Red
+## Node Red 
 Run Node Red from terminal by typing node-red
 
-Open the browser at htt://localhost:1880
+Open the browser at http://localhost:1880
+This will show the flows you are running / creating. 
+
+
+
+## Pi Notes
+
+The operating system for a pi needs to be set up on an SD card before you can use the pi
+
+
+
+### Node-Red
+
+Can use a Pi to run Node-Red *notes based on DigiLabs Set Up of Pi*
+
+Run the Pi through the terminal 
+
+ssh pi@pi
+
+Means that the terminal is now running the Pi and the cusror will switch to Pi@raspberrypi:~$
+
+node-red-start starts node when it runs off the Pi *this is due to the changes we had to make for the version of the operating system*
+
+Open the browser at pi:1880 
+
+This will show the flows you are running / creating.
+
+To view the dashboard if you've created one or have an input area *e.g. for the twitter search thing where you have to include a search term* open the browswer at pi:1880/ui
+
+If you are running a flow using the worldmap node open the browser at -  pi:1880/worldmap
+
+
+### Screens
+Screens lets you run extra screens that won't be interupted if the connection drops. 
+
+screen creates a new screen
+
+screen -ls *lists the screens running*
+
+screen -r followed by the number displayed in the list *will switch to that particular screen*
+
+
+
+##Websites of Interest
+
+* theyworkforyou.com
+* ifthisthenthat.com
+* 
+
+ 
+
+
+
+
 
 
