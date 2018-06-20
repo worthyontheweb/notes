@@ -171,6 +171,19 @@ This will show the flows you are running / creating.
 
 The operating system for a pi needs to be set up on an SD card before you can use the pi
 
+## Screenly OSE
+[Screenly](https://www.screenly.io/ose/) is a way to run on-screen displays using a Raspberry Pi. 
+The most straight forward way is to download a Screenly version of the Raspberry Pi operating system (known as an image) and use that version. 
+
+Flash an SD card using [Etcher](https://etcher.io/) or something similar this will clear the SD card of anything and add the new information. 
+Add the SD card to the Raspberry pi and connect it to a screen via HDMI, a keyboard using a USB port, an ethernet connection and a power supply. 
+
+The Raspberry Pi will now boot up and display a screen from screenly with the details of its IP address and a password. Visit the IP address as a url on a computer and it will bring up the Screenly content management system where you can add the assets you wish to display eg videos, pictures etc. By default the asset list will include a Clock, A Weather widget and a Hacker News stream and they will appear on the screen attached to the Raspberry Pi and loop through for approx 10 seconds each. 
+
+You can switch the various assets on and off. Select Add Asset to upload your content to the system. 
+
+The screen attached to the Pi will continue to loop through any available content. 
+
 
 
 ### Node-Red
@@ -181,7 +194,7 @@ Run the Pi through the terminal
 
 ssh pi@pi
 
-Means that the terminal is now running the Pi and the cusror will switch to Pi@raspberrypi:~$
+Means that the terminal is now running the Pi and the cursor will switch to Pi@raspberrypi:~$
 
 node-red-start starts node when it runs off the Pi *this is due to the changes we had to make for the version of the operating system*
 
