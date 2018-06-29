@@ -173,6 +173,12 @@ The operating system for a pi needs to be set up on an SD card before you can us
 
 Shutting down a Pi before shutdown is not straight forward. 
 
+### To Change  Pi Password
+Ctrl Alt & F1
+login - username
+Passwd - will let you change your password, but asks for existing one first
+
+
 ## Screenly OSE
 [Screenly](https://www.screenly.io/ose/) is a way to run on-screen displays using a Raspberry Pi. 
 The most straight forward way is to download a Screenly version of the Raspberry Pi operating system (known as an image) and use that version. 
