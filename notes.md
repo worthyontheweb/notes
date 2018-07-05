@@ -232,7 +232,12 @@ screen -r followed by the number displayed in the list *will switch to that part
 * ifthisthenthat.com
 * 
 
- 
+####Update Pi Password
+CTRL Alt F1
+login *name of pi*
+Passwd
+
+  
 
 
 
