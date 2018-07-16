@@ -232,7 +232,13 @@ screen -r followed by the number displayed in the list *will switch to that part
 * ifthisthenthat.com
 * 
 
+### Raspberry Pi Configuration Updates
+Used for things such as updating the password and changing the time on a Pi
+
+sudo raspi-config *using super user powers to update the configuration of the Pi*
+
 ####Update Pi Password
+
 CTRL Alt F1
 login *name of pi*
 Passwd
