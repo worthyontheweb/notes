@@ -192,6 +192,7 @@ You can switch the various assets on and off. Select Add Asset to upload your co
 
 The screen attached to the Pi will continue to loop through any available content. 
 
+Double check that the content hasn't been allocated an end date for display. 
 
 
 ### Node-Red
