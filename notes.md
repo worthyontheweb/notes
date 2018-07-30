@@ -244,7 +244,7 @@ CTRL Alt F1
 login *name of pi*
 Passwd
 
-test update
+
 
 
 
