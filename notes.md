@@ -82,7 +82,7 @@ Export video
 functions.php edit *(or duplicate and edit)* the wp_enqueue_style relating to fonts. Genesis themes usually already include at least one Google Font. 
 
 ### Genesis Featured Image
-/*claire featured image code* consider editing location/
+/*claire featured image code for posts* consider editing location */
 add_action ('genesis_before_entry', 'fcd_add_featured');
 function fcd_add_featured() {
 if ( is_single() && has_post_thumbnail() ) {
@@ -90,6 +90,13 @@ echo '<div class="home-thumbnail">' . '';
 genesis_image( array( 'size' => 'full' ) );
 echo '</div>';
 }
+}
+
+/* Alternative Code to Display Featured Image on top of the post */
+add_action( 'genesis_entry_content', 'featured_post_image', 8 );
+function featured_post_image() {
+  if ( !is_singular( array( 'post', 'page' ) ))  return;
+	the_post_thumbnail('large'); /*you can use medium, large or a custom size */
 }
 
 ### Genesis Child Themes - creation
