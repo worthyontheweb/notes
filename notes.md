@@ -92,6 +92,8 @@ echo '</div>';
 }
 }
 
+Return alternative system code
+
 ### Genesis Child Themes - creation
 #### Theme Folder
 Theme folder **must** contain the following:
