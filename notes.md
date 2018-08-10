@@ -244,7 +244,12 @@ CTRL Alt F1
 login *name of pi*
 Passwd
 
+ worklog entry 2018-01-30 15:23:29
+## Creating 'Squared' in Markdown and / or HTML
+As DH2 is actually DH² attempted to find out how to 'write' that. Thanks to Dave I know now about Unicode which is accessed via Ctrl Cmd  and Spacebar 
 
+## Spotlight
+Macs have a search facility other than finder called Sopotlight which you access by pressing cmd and the space bar.
 
 
 
