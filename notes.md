@@ -45,7 +45,7 @@ Embed videos and sound files to slides and use transitions to move through them.
 - Insert video
 	- from my pc
 - Opt to play across slides
-- use transitions to set the timing of the slode change to slightly longer than the audio or video embedded 
+- use transitions to set the timing of the slide change to slightly longer than the audio or video embedded 
 - Via advanced slide
 	- Select no full screen to stop the presentation flipping to full screen. It also allows room to add additional text.
 Export video 
