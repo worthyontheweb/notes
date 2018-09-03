@@ -240,11 +240,15 @@ Used for things such as updating the password and changing the time on a Pi
 
 sudo raspi-config *using super user powers to update the configuration of the Pi*
 
+
+
 ####Update Pi Password
 
-CTRL Alt F1
+CTRL Alt F1 *opens terminal*
 login *name of pi*
 Passwd
+
+*default is: login pi pw raspberry*
 
  worklog entry 2018-01-30 15:23:29
 ## Creating 'Squared' in Markdown and / or HTML
