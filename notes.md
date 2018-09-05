@@ -239,6 +239,8 @@ screen -r followed by the number displayed in the list *will switch to that part
 Used for things such as updating the password and changing the time on a Pi
 
 sudo raspi-config *using super user powers to update the configuration of the Pi*
+Updating the time is linked to the localisation. If the pi doesn't know it's in the UK it won't display the correct time, especially during BST. Updates require restarting the Pi which appears to reset the time - requires more info
+
 
 
 
@@ -250,12 +252,14 @@ Passwd
 
 *default is: login pi pw raspberry*
 
+
+
  worklog entry 2018-01-30 15:23:29
 ## Creating 'Squared' in Markdown and / or HTML
 As DH2 is actually DH² attempted to find out how to 'write' that. Thanks to Dave I know now about Unicode which is accessed via Ctrl Cmd  and Spacebar 
 
 ## Spotlight
-Macs have a search facility other than finder called Sopotlight which you access by pressing cmd and the space bar.
+Macs have a search facility other than finder called Spotlight which you access by pressing cmd and the space bar.
 
 
 
