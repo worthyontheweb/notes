@@ -261,7 +261,14 @@ As DH2 is actually DH² attempted to find out how to 'write' that. Thanks to Dav
 ## Spotlight
 Macs have a search facility other than finder called Spotlight which you access by pressing cmd and the space bar.
 
+## Genesis 404 page wip
+The DH2 site is running a genesis child theme. The live theme is dh2-parallax-pro named after the Genesis child theme that the customised child theme is based upon. 
 
+The default 404 page isn't particularly attractive and is in the process of being customised. 
+
+I have included a custom 404 error image created on Canva and some additional text which i have added through a customised widget which i created. For some reason this method is resulting in the selected widgets disappearing from the widgets panel whenever that page is refreshed although the widgets chosen continue to work on the 404 page. 
+
+Will investigate further before full roll out. 
 
 
 
