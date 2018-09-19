@@ -270,6 +270,29 @@ I have included a custom 404 error image created on Canva and some additional te
 
 Will investigate further before full roll out. 
 
+## LED Curtain
+### Create video
+Create the asset (gif file or movie) on the Legend app or alternative software. The finished item should beeither an AVI or a GIF file, with AVI being the preferred option. The video / gif will be rendered at **96 x 80 pixels** (each light on the LED curtain is one pixel) 
+
+### Deploy to Curtain
+The curtain is controlled by the Toshiba Windows laptop.
+
+Open LED Show T9 program
+*Cartoon cats - The system will display a window containing cartoon cats offering help - they won't help you, even if you try as the options for help don't work.*
+
+Select the green cross to Add blank page
+
+Control Page - this affects the size of the 'window' The size needs to be set to 96 x 80 and the position of the window also needs to be updated otherwise the curtain will try to display a portion of the display and almost certainly in the wrong place.
+
+Select the green cross to Add file window
+
+Select Add video or Add Gif, depending on the format you are trying to display. 
+
+Make sure that everything plays as you wish (press play?) and select Save As. This will save the file and details. The system will then display a player and you can close the laptops lid. The LED Curtain will continue to display in your absence. 
+
+
+
+
 
 
 
