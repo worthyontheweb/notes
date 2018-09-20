@@ -290,7 +290,13 @@ Select Add video or Add Gif, depending on the format you are trying to display.
 
 Make sure that everything plays as you wish (press play?) and select Save As. This will save the file and details. The system will then display a player and you can close the laptops lid. The LED Curtain will continue to display in your absence. 
 
-## Google Analytics Reporting
+##Google Analytics
+Hierarchy is Organisation
+Account
+Property
+View
+
+### Google Analytics Reporting
 Rename the automatically created view as Raw Data and don't mess with it. This provides a way to get back to previous information.
 
 Create a new view called Master View
