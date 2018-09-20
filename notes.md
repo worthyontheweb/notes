@@ -290,6 +290,32 @@ Select Add video or Add Gif, depending on the format you are trying to display.
 
 Make sure that everything plays as you wish (press play?) and select Save As. This will save the file and details. The system will then display a player and you can close the laptops lid. The LED Curtain will continue to display in your absence. 
 
+## Google Analytics Reporting
+Rename the automatically created view as Raw Data and don't mess with it. This provides a way to get back to previous information.
+
+Create a new view called Master View
+
+Create a third view called Test and use this to try out new views and reports etc. 
+
+### To exclude internal traffic by IP address
+Filters
+Add filter to view
+Predefined
+select exclude traffic from IP address
+Select equals
+add my IP address
+Save
+
+### Reporting
+Customisation
+Dashboards
+Create
+Select private or shared
+
+
+
+
+
 
 
 
