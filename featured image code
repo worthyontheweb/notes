@@ -1,0 +1,21 @@
+/*claire featured image code* consider editing location */
+add_action ('genesis_before_entry', 'fcd_add_featured');
+function fcd_add_featured() {
+if ( is_single() && has_post_thumbnail() ) {
+echo '<div class="home-thumbnail">' . '';
+genesis_image( array( 'size' => 'full' ) );
+echo '</div>';
+}
+}
+
+
+//claire featured image code* consider editing location/
+add_action ('genesis_before_entry_content', 'fcd_add_featured');
+function fcd_add_featured() {
+if ( is_singular() && has_post_thumbnail() ) {
+echo '<div class="home-thumbnail">' . '';
+genesis_image( array( 'size' => 'full' ) );
+echo '</div>';
+}
+}
+
