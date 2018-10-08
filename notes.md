@@ -94,7 +94,7 @@ echo '</div>';
 }
 
 #### Works with posts and pages
-//claire featured image code for posts and pages* consider editing location/
+//featured image code for posts and pages* consider editing location/
 add_action ('genesis_before_entry_content', 'fcd_add_featured');
 function fcd_add_featured() {
 if ( is_singular() && has_post_thumbnail() ) {
