@@ -328,6 +328,15 @@ Dashboards
 Create
 Select private or shared
 
+## Creating Child Themes
+
+
+## Terminal
+* mkdir - create a new folder *(make directory)*
+* touch filename.txt - create new text file 
+* cd directory name - change directory
+* ls - show files in current directory *(list)*
+
 
 
 
