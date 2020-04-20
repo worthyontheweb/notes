@@ -345,7 +345,9 @@ Create
 Select private or shared
 
 ## Gatsby
-This is to create a site locally created  site
+This is to create a site locally created with Gatsby
+
+Open terminal and enter the directory you'd like to create the site in. 
 gatsby new name-of-new-gatsby-site
 cd name-of-new-gatsby-site/
 gatsby develop
