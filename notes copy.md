@@ -343,3 +343,11 @@ Customisation
 Dashboards
 Create
 Select private or shared
+
+## Gatsby
+This is to create a site locally created  site
+gatsby new name-of-new-gatsby-site
+cd name-of-new-gatsby-site/
+gatsby develop
+Site will now be visible at http://localhost:8000
+To edit open the files in vs code and open src/pages/index.js The site will update in real time. 
