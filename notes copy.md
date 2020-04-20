@@ -353,3 +353,4 @@ cd name-of-new-gatsby-site/
 gatsby develop
 Site will now be visible at http://localhost:8000
 To edit open the files in vs code and open src/pages/index.js The site will update in real time. 
+The site won't be visible if you close vs code. To restart it, you need to return to the directory holding the site and type gatsby develop.
