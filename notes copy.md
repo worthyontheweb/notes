@@ -97,14 +97,12 @@ echo '</div>';
 }
 }
 
-<<<<<<< HEAD
 /* Alternative Code to Display Featured Image on top of the post */
 add_action( 'genesis_entry_content', 'featured_post_image', 8 );
 function featured_post_image() {
   if ( !is_singular( array( 'post', 'page' ) ))  return;
 	the_post_thumbnail('large'); /*you can use medium, large or a custom size */
 }
-=======
 #### Works with posts and pages
 //featured image code for posts and pages* consider editing location/
 add_action ('genesis_before_entry_content', 'fcd_add_featured');
@@ -118,7 +116,6 @@ echo '</div>';
 
 
 Return alternative system code
->>>>>>> 21c0f7bc35345b33336deafa577d658dc8533e80
 
 ### Genesis Child Themes - creation
 #### Theme Folder
