@@ -114,6 +114,14 @@ echo '</div>';
 }
 }
 
+####Adding extra areas to genesis
+//vwc additional widget area to display hero image 
+genesis_register_sidebar( array(
+	'id'	=> 'front-page-flag',
+	'name'	=>_( 'Front Page Flag', 'atmosphere-pro'),
+	'description' =>_('additional hero area to display the progress flag', 'atmosphere-pro' ),
+
+));
 
 Return alternative system code
 
