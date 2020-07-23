@@ -1,0 +1,10 @@
+Genesis parallax-pro resizing of background images for mobile.
+
+.home-section-1 {
+	background-size: contain;
+	background-color: #d3ccbe;
+}
+.home-section-3 {
+	background-size: contain;
+	background-color: #66b9c5;
+}
